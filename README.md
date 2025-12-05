@@ -16,3 +16,5 @@ Por Qué Requiere Analítica: Un simple conteo nacional de casos no es suficient
 ¿Qué tipos de armas o medios son más comunes?
 
 El análisis permite pasar de una estrategia reactiva a una predictiva y preventiva, focalizando las campañas y los recursos en las zonas y poblaciones de mayor riesgo.
+
+Puedes acceder al vídeo a través de: https://drive.google.com/file/d/1UoJxXu5BBRkWhXWwgldWd3Q5uwF71s2r/view?usp=sharing
